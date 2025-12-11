@@ -1,0 +1,5 @@
+{
+  "name": "Expert Council AI",
+  "description": "A multi-agent swarm intelligence system where specialized AI agents (Planner, Executor, Critic, Manager) collaborate to solve complex tasks.",
+  "requestFramePermissions": []
+}
